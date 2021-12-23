@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "type": "circle",
+      "color": "blue",
+      "path": "image/blueCircle.png"
+    },
+    {
+      "type": "circle",
+      "color": "red",
+      "path": "image/redCircle.png"
+    },
+    {
+      "type": "circle",
+      "color": "yellow",
+      "path": "image/yellowCircle.png"
+    },
+    {
+      "type": "rectangle",
+      "color": "blue",
+      "path": "image/blueRectangle.png"
+    },
+    {
+      "type": "rectangle",
+      "color": "red",
+      "path": "image/redRectangle.png"
+    },
+    {
+      "type": "rectangle",
+      "color": "yellow",
+      "path": "image/yellowRectangle.png"
+    },
+    {
+      "type": "triangle",
+      "color": "blue",
+      "path": "image/blueTriangle.png"
+    },
+    {
+      "type": "triangle",
+      "color": "red",
+      "path": "image/redTriangle.png"
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "path": "image/yellowTriangle.png"
+    }
+  ]
+}
